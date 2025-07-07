@@ -2,13 +2,13 @@
 
 ## Informações Gerais
 
-- **Alunos:** Rafael Mota Alves, Daniel Sansão Araldi e Kauan Adami
-- **Professor:** Felipe Viel
+- **Alunos:** <a href="https://github.com/RafaelMotaAlvess">Rafael Mota Alves</a>, <a href="https://github.com/DanielAraldi">Daniel Sansão Araldi</a> e <a href="https://github.com/kauanadami">Kauan Adami Guerreiro Chaves</a>
+- **Professor:** <a href="https://github.com/VielF">Felipe Viel</a>
 - **Disciplina:** Processamento de Imagens
 
 ## Descrição
 
-Este projeto tem como objetivo desenvolver um modelo de classificação binária de imagens utilizando redes neurais convolucionais (CNNs). O modelo foi treinado para distinguir entre duas categorias: **Positive** e **Negative**, a partir de um dataset com aproximadamente 40.000 imagens.
+Este projeto tem como objetivo desenvolver um modelo de classificação binária de imagens utilizando redes neurais convolucionais (CNNs). O modelo foi treinado para distinguir entre duas categorias: **com rachaduras** e **sem rachaduras**, a partir de um dataset com aproximadamente 40.000 imagens.
 
 ## Como Executar
 
